@@ -32,5 +32,5 @@ The LMS (Learning Management System) Dashboard is a web application designed for
    cd lms-dashboard
 
    ##Dashboard Image
-   https://github.com/Hemandh7/Swanirbhar/blob/main/Screenshot%202024-06-09%20091244.png
+  ![Login Page](https://via.placeholder.com/800x400?text=Login+Page)
    
