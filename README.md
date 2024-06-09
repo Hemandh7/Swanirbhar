@@ -1,5 +1,16 @@
 # LMS Dashboard
 
+##Common Login Credentials
+**Student Login
+
+Username: student
+Password: password
+
+**Teacher Login
+
+Username: teacher
+Password: password
+
 ## Overview
 The LMS (Learning Management System) Dashboard is a web application designed for students and teachers to manage courses. The dashboard allows students to view and track their course progress, and teachers to upload new courses. The application is built using React and JSON Server to handle course data.
 
@@ -17,5 +28,5 @@ The LMS (Learning Management System) Dashboard is a web application designed for
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lms-dashboard.git
+   git clone https://github.com/Hemandh7/Swanirbhar.git
    cd lms-dashboard
