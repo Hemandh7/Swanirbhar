@@ -30,3 +30,7 @@ The LMS (Learning Management System) Dashboard is a web application designed for
    ```bash
    git clone https://github.com/Hemandh7/Swanirbhar.git
    cd lms-dashboard
+
+   ##Dashboard Image
+   https://github.com/Hemandh7/Swanirbhar/blob/main/Screenshot%202024-06-09%20091244.png
+   
