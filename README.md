@@ -3,13 +3,13 @@
 ##Common Login Credentials
 **Student Login
 
-Username: student
-Password: password
+*Username: student
+*Password: password
 
 **Teacher Login
 
-Username: teacher
-Password: password
+*Username: teacher
+*Password: password
 
 ## Overview
 The LMS (Learning Management System) Dashboard is a web application designed for students and teachers to manage courses. The dashboard allows students to view and track their course progress, and teachers to upload new courses. The application is built using React and JSON Server to handle course data.
