@@ -1,0 +1,27 @@
+
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #140101;
+    border-radius: 5px;
+  }
+  
+  li a {
+    font-size: 1.8em;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  li a:hover {
+    text-decoration: underline;
+  }
+  
+  li p {
+    margin: 15px 0;
+  }
+  
